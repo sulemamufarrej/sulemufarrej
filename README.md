@@ -7,7 +7,7 @@ Amo a área de tecnologia e curiosa sobre novos conhecimentos, aprendi muito nos
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/linkedin/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="[https://custom-icon-badges.demolab.com/linkedin/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630](https://www.linkedin.com/in/sulemamufarrej"
         />
   
 ### 🤖 Linguagens e Tecnologias
