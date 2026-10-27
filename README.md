@@ -1,4 +1,4 @@
-# Sulema Mufarrej
+# Sejam bem vindos, pessoal!
 Meu nome é Sulema Oliveira, sou brasileira e moro em Portugal. Concluí o curso de Analista de Dados pela TripleTen Brasil e busco uma oportunidade de entrar nessa área.
 Amo a área de tecnologia e curiosa sobre novos conhecimentos, aprendi muito nos projetos que desenvolvi durante o curso.
 
